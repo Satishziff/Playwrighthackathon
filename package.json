@@ -1,0 +1,18 @@
+{
+  "name": "visual-playwright-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation project with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "codegen": "npx playwright codegen"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,739 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic [ref=e3]:
+        - generic [ref=e9]:
+          - generic [ref=e13]: Menu
+          - generic [ref=e15]:
+            - button [disabled]:
+              - img
+        - generic [ref=e18]:
+          - link [ref=e19] [cursor=pointer]:
+            - /url: /#skip-nav
+            - text: Skip to main content
+          - banner:
+            - generic [ref=e20]:
+              - heading [level=1] [ref=e22]:
+                - img [ref=e24]
+              - navigation [ref=e26]:
+                - list [ref=e27]:
+                  - listitem [ref=e28]:
+                    - link [ref=e29] [cursor=pointer]:
+                      - /url: /engagement-rings/
+                      - text: ENGAGEMENT
+                    - generic:
+                      - generic:
+                        - generic:
+                          - paragraph: CENTER SHAPE
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/round-cut/
+                                - img
+                                - text: Round
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/oval-cut/
+                                - img
+                                - text: Oval
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/emerald-cut/
+                                - img
+                                - text: Emerald
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/pear-cut/
+                                - img
+                                - text: Pear
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/princess-cut/
+                                - img
+                                - text: Princess
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/cushion-cut/
+                                - img
+                                - text: Cushion
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/marquise-cut/
+                                - img
+                                - text: Marquise
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/radiant-cut/
+                                - img
+                                - text: Radiant
+                            - listitem:
+                              - link:
+                                - /url: https://tacori.com/engagement-rings/view-all/?view=image_3_4
+                                - img
+                                - text: VIEW ALL
+                        - generic:
+                          - paragraph: METALS
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/platinum/
+                                - img
+                                - text: Platinum
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/yellow-gold/
+                                - img
+                                - text: Yellow Gold
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/white-gold/
+                                - img
+                                - text: White Gold
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/rose-gold/
+                                - img
+                                - text: Rose Gold
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/two-tone/
+                                - img
+                                - text: Two-Tone
+                        - generic:
+                          - paragraph: RING STYLES
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/solitaire/
+                                - text: Solitaire
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/three-stone/
+                                - text: Three Stone
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/blooms/
+                                - text: Bloom
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/cathedral/
+                                - text: Cathedral Foundation
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/classic-360/
+                                - text: Classic 360 Foundation
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/classic-crescent-mosaic-engagement-rings/
+                                - text: Classic Crescent Mosaics
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/collections/royalt/
+                                - text: RoyalT Series
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/new-engagement-wedding-rings/
+                                - text: New Bridal Designs
+                            - listitem:
+                              - link:
+                                - /url: /statement-rings/
+                                - text: Statement Rings
+                        - generic:
+                          - paragraph: TACORI COLLECTIONS
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/collections/
+                                - text: Collections Overview
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/simply-tacori/
+                                - text: Simply TACORI
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/founders-collection/
+                                - text: Founder's Collection
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/petite-crescent/
+                                - text: Petite Crescent
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/dantela/
+                                - text: Dantela
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/sculpted-crescent/
+                                - text: Sculpted Crescent
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/classic-crescent/
+                                - text: Classic Crescent
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/lunetta-crescent/
+                                - text: Lunetta Crescent
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/dahlia-bridal/
+                                - text: Dahlia
+                        - generic:
+                          - paragraph: EDUCATION
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /about-tacori/
+                                - text: Why TACORI
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/
+                                - text: Engagement Ring Guide
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/settings/
+                                - text: Engagement Ring Settings
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/diamond-cut/
+                                - text: Diamond Cuts
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/ring-vocabulary/
+                                - text: Ring Vocabulary
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/ring-size-guide/
+                                - text: Ring Size Guide
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/hand-engraving/
+                                - text: Hand Engraving
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/customization/
+                                - text: Customize Your Ring
+                  - listitem [ref=e30]:
+                    - link [ref=e31] [cursor=pointer]:
+                      - /url: /wedding-rings/
+                      - text: WEDDING
+                    - generic:
+                      - generic:
+                        - generic:
+                          - paragraph: WEDDING
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/
+                                - text: Women's Wedding Bands
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/mens-bands/
+                                - text: Men's Wedding Bands
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/couples-bands/collections/tacori-couple/
+                                - text: Couple's Wedding Bands
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/
+                                - text: Explore All Wedding Bands
+                        - generic:
+                          - paragraph: SHOP BY STYLE
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/?setting_style_wb=1146
+                                - text: French pave
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/?setting_style_wb=1145
+                                - text: Pave
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/?setting_style_wb=1149
+                                - text: Channel
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/?setting_style_wb=1147
+                                - text: Design
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/?setting_style_wb=1148
+                                - text: High Polish
+                        - generic:
+                          - paragraph: CURATED SHOPS
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/eternity-bands/
+                                - text: Eternity Bands
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/stack-story/
+                                - text: Stacking Stories
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/rainbow-rings/
+                                - text: Rainbow Rings
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/classic-crescent-diamond-bands/
+                                - text: Classic Crescent Diamond Bands
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/new-engagement-wedding-rings/
+                                - text: New Bridal Designs
+                        - generic:
+                          - paragraph: TACORI COLLECTIONS
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/simply-tacori/
+                                - text: Simply TACORI
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/founders-collection/
+                                - text: Founder's Collection
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/petite-crescent/
+                                - text: Petite Crescent
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/dantela/
+                                - text: Dantela
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/sculpted-crescent/
+                                - text: Sculpted Crescent
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/collections/classic-crescent/
+                                - text: Classic Crescent
+                            - listitem:
+                              - link:
+                                - /url: /wedding-rings/womens-bands/?tacori_collection=1307
+                                - text: Lunetta Crescent
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/dahlia-bridal/
+                                - text: Dahlia
+                  - listitem [ref=e32]:
+                    - link [ref=e33] [cursor=pointer]:
+                      - /url: /jewelry/
+                      - text: JEWELRY
+                    - generic:
+                      - generic:
+                        - generic:
+                          - paragraph: SHOP BY CATEGORY
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/necklaces/
+                                - text: Necklaces
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/earrings/
+                                - text: Earrings
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/bracelets/
+                                - text: Bracelets
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/rings/
+                                - text: Rings
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/wedding-rings/eternity-bands/
+                                - text: Eternity Bands
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/collections/crescent-eclipse/cord-bracelet/
+                                - text: Cord Bracelets
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/new-styles/
+                                - text: New Designs
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/womens/
+                                - text: View all Jewelry
+                        - generic:
+                          - paragraph: SHOP BY METAL
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/yellow-gold-jewelry/
+                                - text: Yellow Gold Jewelry
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/white-gold-jewelry/
+                                - text: White Gold Jewelry
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/rose-gold-jewelry/
+                                - text: Rose Gold Jewelry
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/silver-jewelry/
+                                - text: Silver Jewelry
+                        - generic:
+                          - paragraph: TACORI COLLECTIONS
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /dahlia/
+                                - text: Dahlia
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/collections/tacori-stilla/
+                                - text: Stilla
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/collections/classic-crescent-royalt-fine-jewelry/
+                                - text: Classic Crescent
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/collections/tacori-allure/
+                                - text: Allure
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/eclipse/
+                                - text: Eclipse
+                            - listitem:
+                              - link:
+                                - /url: /jewelry/collections/tacori-bloom/
+                                - text: Bloom
+                  - listitem [ref=e34]:
+                    - link [ref=e35] [cursor=pointer]:
+                      - /url: /about-tacori/
+                      - text: OUR STORY
+                    - generic:
+                      - generic:
+                        - generic:
+                          - paragraph: Inside TACORI
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /about-tacori/
+                                - text: About TACORI
+                            - listitem:
+                              - link:
+                                - /url: /the-tacori-story/
+                                - text: The TACORI Story
+                            - listitem:
+                              - link:
+                                - /url: /the-tacori-process/
+                                - text: The TACORI Process
+                            - listitem:
+                              - link:
+                                - /url: /hidden-details/
+                                - text: Hidden Details
+                            - listitem:
+                              - link:
+                                - /url: https://www.tacori.com/in-the-press/
+                                - text: In the Press
+                        - generic:
+                          - paragraph: EDUCATION
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/
+                                - text: Engagement Ring Guide
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/settings/
+                                - text: Engagement Ring Settings
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/diamond-cut/
+                                - text: Diamond Cuts
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/ring-vocabulary/
+                                - text: Ring Vocabulary
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/ring-size-guide/
+                                - text: Ring Size Guide
+                            - listitem:
+                              - link:
+                                - /url: /engagement-rings/engagement-ring-guide/customization/
+                                - text: Customization
+                            - listitem:
+                              - link:
+                                - /url: /faq/
+                                - text: FAQ
+              - generic [ref=e36]:
+                - generic:
+                  - button [ref=e38] [cursor=pointer]:
+                    - img [ref=e39]
+                  - link [ref=e41] [cursor=pointer]:
+                    - /url: /events/
+                    - img [ref=e42]
+                  - link [ref=e44] [cursor=pointer]:
+                    - /url: /wishlist/
+                    - img [ref=e45]
+                  - link [ref=e47] [cursor=pointer]:
+                    - /url: /account/signin/?hold=true
+                    - img [ref=e49]
+                  - link [ref=e51] [cursor=pointer]:
+                    - /url: /where-to-buy-engagement/
+                    - img [ref=e52]
+          - generic [ref=e58]:
+            - generic [ref=e60]:
+              - generic [ref=e64]:
+                - img [ref=e65]
+                - generic [ref=e66]:
+                  - heading [level=2] [ref=e67]: TACORI x ALICE + OLIVIA NYFW
+                  - paragraph [ref=e68]
+                  - link [ref=e70] [cursor=pointer]:
+                    - /url: https://www.tacori.com/alice-and-olivia/
+                    - text: see the looks
+              - text: prev next
+            - text: prev next prev next prev next
+            - generic [ref=e71]:
+              - generic [ref=e73]:
+                - paragraph [ref=e76]: Engagement
+                - link [ref=e77] [cursor=pointer]:
+                  - /url: https://www.tacori.com/engagement-rings/
+                  - button [ref=e78]: EXPLORE
+              - generic [ref=e80]:
+                - paragraph [ref=e83]: Men's Bands
+                - link [ref=e84] [cursor=pointer]:
+                  - /url: /wedding-rings/mens-bands/
+                  - button [ref=e85]: EXPLORE
+              - generic [ref=e87]:
+                - paragraph [ref=e90]: Fine Jewelry
+                - link [ref=e91] [cursor=pointer]:
+                  - /url: https://www.tacori.com/jewelry/
+                  - button [ref=e92]: EXPLORE
+            - generic [ref=e95]:
+              - generic [ref=e108]:
+                - button
+                - img [ref=e110]
+              - generic [ref=e111]:
+                - heading [level=2] [ref=e112]: World-Renowned TACORI Craftsmanship
+                - paragraph [ref=e113]: Handcrafted to the highest standards of excellence
+                - link [ref=e115] [cursor=pointer]:
+                  - /url: /the-tacori-process/
+                  - text: see our process
+            - generic [ref=e117]:
+              - generic [ref=e121]:
+                - img [ref=e122]
+                - generic [ref=e123]:
+                  - heading [level=2] [ref=e124]: Hand Engraving
+                  - paragraph [ref=e125]: Hand engraving is where TACORI began. We've hand-crafted every piece with meticulous care for decades, and now we're bringing back one of our original signatures.
+                  - link [ref=e127] [cursor=pointer]:
+                    - /url: /hand-engraving/
+                    - text: Explore
+              - text: prev next
+            - generic [ref=e128]:
+              - generic [ref=e130]:
+                - paragraph [ref=e133]: Wedding Bands
+                - link [ref=e134] [cursor=pointer]:
+                  - /url: /wedding-rings/womens-bands/
+                  - button [ref=e135]: EXPLORE
+              - generic [ref=e137]:
+                - paragraph [ref=e140]: Exceptionally Exquisite
+                - paragraph [ref=e143]: Eternity Bands
+                - link [ref=e144] [cursor=pointer]:
+                  - /url: /wedding-rings/royalt-eternity-bands/
+                  - button [ref=e145]: EXPLORE
+            - generic [ref=e146]:
+              - generic [ref=e148]:
+                - paragraph [ref=e151]: The TACORI Crescent
+                - link [ref=e152] [cursor=pointer]:
+                  - /url: /tacori-crescent/
+                  - button [ref=e153]: EXPLORE THE CRESCENT
+              - generic [ref=e155]:
+                - paragraph [ref=e158]: A Legacy of Love
+                - link [ref=e159] [cursor=pointer]:
+                  - /url: /the-tacori-story/
+                  - button [ref=e160]: MEET THE TACORIANS
+              - generic [ref=e162]:
+                - paragraph [ref=e165]: Connect to Retailer
+                - link [ref=e166] [cursor=pointer]:
+                  - /url: /where-to-buy-engagement/
+                  - button [ref=e167]: FIND A STORE
+          - generic [ref=e171]:
+            - navigation [ref=e173]:
+              - generic [ref=e174]:
+                - heading [level=3] [ref=e175]: Follow TACORI
+                - button [ref=e178] [cursor=pointer]: Subscribe
+                - generic [ref=e179]:
+                  - link [ref=e180] [cursor=pointer]:
+                    - /url: https://www.instagram.com/tacoriofficial/
+                    - img [ref=e182]
+                  - link [ref=e183] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@tacoriofficial
+                    - img [ref=e185]
+                  - link [ref=e186] [cursor=pointer]:
+                    - /url: https://www.facebook.com/TACORI
+                    - img [ref=e188]
+                  - link [ref=e189] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/tacori/
+                    - img [ref=e191]
+                  - link [ref=e192] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/tacori
+                    - img [ref=e194]
+                  - link [ref=e195] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/IheartTacori
+                    - img [ref=e197]
+            - navigation [ref=e199]:
+              - generic [ref=e200]:
+                - generic [ref=e201]: Learn
+                - list [ref=e202]:
+                  - listitem [ref=e203]:
+                    - link [ref=e204] [cursor=pointer]:
+                      - /url: /care-recommendations/
+                      - text: Care & Repair
+                  - listitem [ref=e205]:
+                    - link [ref=e206] [cursor=pointer]:
+                      - /url: /engagement-rings/engagement-ring-guide/
+                      - text: Engagement Ring Guide
+                  - listitem [ref=e207]:
+                    - link [ref=e208] [cursor=pointer]:
+                      - /url: /faq/
+                      - text: FAQ
+                  - listitem [ref=e209]:
+                    - link [ref=e210] [cursor=pointer]:
+                      - /url: https://blog.tacori.com/
+                      - text: Blog
+            - navigation [ref=e212]:
+              - generic [ref=e213]:
+                - generic [ref=e214]: Products
+                - list [ref=e215]:
+                  - listitem [ref=e216]:
+                    - link [ref=e217] [cursor=pointer]:
+                      - /url: /shipping-and-returns/
+                      - text: Shipping & Returns
+                  - listitem [ref=e218]:
+                    - link [ref=e219] [cursor=pointer]:
+                      - /url: /where-to-buy-engagement/
+                      - text: Find a Retailer
+                  - listitem [ref=e220]:
+                    - link [ref=e221] [cursor=pointer]:
+                      - /url: /engagement-rings/engagement-ring-guide/customization/
+                      - text: Special Orders
+                  - listitem [ref=e222]:
+                    - link [ref=e223] [cursor=pointer]:
+                      - /url: /authenticity-registration/
+                      - text: Authenticity Registration
+                  - listitem [ref=e224]:
+                    - link [ref=e225] [cursor=pointer]:
+                      - /url: /promise-of-service/
+                      - text: Promise of Service
+            - navigation [ref=e227]:
+              - generic [ref=e228]:
+                - generic [ref=e229]: TACORI
+                - list [ref=e230]:
+                  - listitem [ref=e231]:
+                    - link [ref=e232] [cursor=pointer]:
+                      - /url: /contact-us/
+                      - text: Contact Us
+                  - listitem [ref=e233]:
+                    - link [ref=e234] [cursor=pointer]:
+                      - /url: /about-tacori/
+                      - text: About Us
+                  - listitem [ref=e235]:
+                    - link [ref=e236] [cursor=pointer]:
+                      - /url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf631977-10a7-4752-b528-b99f3449aa69&ccId=19000101_000001&type=JS&lang=en_US
+                      - text: Careers
+                  - listitem [ref=e237]:
+                    - link [ref=e238] [cursor=pointer]:
+                      - /url: /sitemap/
+                      - text: Sitemap
+                  - listitem [ref=e239]:
+                    - link [ref=e240] [cursor=pointer]:
+                      - /url: /retail-partner-landing/
+                      - text: Retailer Partner Login
+                  - listitem [ref=e241]:
+                    - link [ref=e242] [cursor=pointer]:
+                      - /url: /events/
+                      - text: Events
+            - navigation [ref=e244]:
+              - generic [ref=e245]:
+                - generic [ref=e246]: Legal
+                - list [ref=e247]:
+                  - listitem [ref=e248]:
+                    - link [ref=e249] [cursor=pointer]:
+                      - /url: /privacy-policy/
+                      - text: Privacy Policy
+                  - listitem [ref=e250]:
+                    - link [ref=e251] [cursor=pointer]:
+                      - /url: /terms-and-conditions/
+                      - text: Terms & Conditions
+                  - listitem [ref=e252]:
+                    - link [ref=e253] [cursor=pointer]:
+                      - /url: /#
+                      - text: Don't Sell My Information
+                  - listitem [ref=e254]:
+                    - link [ref=e255] [cursor=pointer]:
+                      - /url: /#
+                      - text: Your privacy Choices
+                  - listitem [ref=e256]:
+                    - link [ref=e257] [cursor=pointer]:
+                      - /url: /#
+                      - text: Notice At Collection
+                  - listitem [ref=e258]:
+                    - generic [ref=e259]: COPYRIGHT © 2025 TACORI, INC
+      - generic [ref=e266]:
+        - button "Close" [ref=e268] [cursor=pointer]:
+          - img [ref=e269]
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - heading "Sign in" [level=1] [ref=e275]
+            - heading "Fill in your password" [level=6] [ref=e276]
+          - generic [ref=e279]:
+            - button "Sign in" [ref=e280] [cursor=pointer]:
+              - generic [ref=e284]: Sign in
+            - button "Create Account" [ref=e285] [cursor=pointer]:
+              - generic [ref=e289]: Create Account
+          - generic [ref=e291]:
+            - generic [ref=e294]:
+              - generic [ref=e295]:
+                - text: Email
+                - generic [ref=e296]: "*"
+              - generic [ref=e297]:
+                - textbox "Email" [active] [ref=e298]: manoj.mani@ziffity.com
+                - group:
+                  - generic: Email *
+            - generic [ref=e300]:
+              - generic:
+                - text: Password
+                - generic: "*"
+              - generic [ref=e301]:
+                - textbox "Password" [ref=e302]
+                - button [ref=e304] [cursor=pointer]:
+                  - img [ref=e305]
+                - group:
+                  - generic: Password *
+            - paragraph [ref=e308]:
+              - link "Forgot password?" [ref=e309] [cursor=pointer]:
+                - /url: /account/forgot-password/
+            - button "Sign in" [ref=e312] [cursor=pointer]
+  - img [ref=e313]
+  - alert [ref=e314]: Sign in
+  - region "Chat Widget" [ref=e315]:
+    - iframe [ref=e316]:
+      - button "Open live chat" [ref=f9e5]:
+        - img [ref=f9e8]
+        - img [ref=f9e15]
+    - generic "Drag" [ref=e317]:
+      - img [ref=e318]
+  - alertdialog "Notice" [ref=e320]:
+    - generic [ref=e322]:
+      - document [ref=e323]:
+        - generic [ref=e324]:
+          - text: We use cookies to improve your experience. Read more about it
+          - button "here" [ref=e325] [cursor=pointer]
+          - text: . By using our site, you agree to our use of cookies.
+      - generic [ref=e327]:
+        - button "Reject" [ref=e328] [cursor=pointer]
+        - button "Accept" [ref=e329] [cursor=pointer]
+```

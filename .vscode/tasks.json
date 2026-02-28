@@ -1,0 +1,55 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npm test",
+			"args": [],
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests (Chromium Headless)",
+			"type": "shell",
+			"command": "npm test",
+			"args": [],
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests (Chromium Headless)",
+			"type": "shell",
+			"command": "npm test",
+			"args": [],
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests (Generate Report)",
+			"type": "shell",
+			"command": "npm test",
+			"args": [],
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests (Chromium Headless)",
+			"type": "shell",
+			"command": "npm test",
+			"args": [],
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		}
+	]
+}
